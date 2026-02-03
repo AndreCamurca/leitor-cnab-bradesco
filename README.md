@@ -53,13 +53,13 @@ Nosso Número     Ocorrência              Data Crédito  Valor Pago (R$)
 
 ```
 
-## Nota de Segurança
+## ⚠️ Nota de Segurança
 Este repositório contém apenas a lógica de processamento. Nenhum arquivo .RET real contendo dados financeiros sensíveis deve ser comitado neste repositório. Recomenda-se o uso de um arquivo .gitignore para excluir extensões como *.RET e *.ret.
 
-## Contribuições
+## 🤝 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias e correções.
 
-## Licença
+## 📄 Licença
 Este projeto é de livre uso para fins de estudo e automação financeira.
 Sinta-se à vontade para modificar e adaptar conforme suas necessidades!
 
