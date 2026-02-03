@@ -30,7 +30,10 @@ pip install pandas
 
 ### 2. Configuração
 Coloque o seu arquivo de retorno (ex: CB310100.RET) na mesma pasta do script ou ajuste a variável arquivo_exemplo dentro do código processar_retorno.py:
+
+```bash
 arquivo_exemplo = "CB310100.RET"
+```
 
 ### 3. Execução
 Execute o script via terminal na pasta do projeto:
